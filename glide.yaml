@@ -1,4 +1,4 @@
-package: go.uber.org/atomic
+package: github.com/Beeketing/atomic
 testImport:
 - package: github.com/stretchr/testify
   subpackages:
